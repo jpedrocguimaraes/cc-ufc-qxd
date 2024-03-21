@@ -82,7 +82,7 @@ Status | Disciplina | Professor
 Status | Disciplina | Professor
 ------ | ---------- | ---------
 :white_check_mark: | Compiladores | JOÃO MARCELO UCHOA DE ALENCAR
-:x: | Computação Gráfica |
+:pencil2: | Computação Gráfica | RUBENS FERNANDES NUNES
 :pencil2: | Matemática Computacional | FABIO CARLOS SOUSA DIAS
 :white_check_mark: | Redes de Computadores | PAULO ARMANDO CAVALCANTE AGUILAR
 :white_check_mark: | Desenvolvimento de Software para Web | JEFFERSON DE CARVALHO SILVA
@@ -109,7 +109,7 @@ Status | Disciplina | Professor
 ------ | ---------- | ---------
 :pencil2: | Projeto de Pesquisa Científica e Tecnológica | CARLA ILANE MOREIRA BEZERRA
 :pencil2: | Trabalho de Conclusão de Curso I | PAULO ARMANDO CAVALCANTE AGUILAR
-:pencil2: | Estágio Supervisionado I |
+:pencil2: | Estágio Supervisionado I | REGIS PIRES MAGALHÃES
 :x: | Empreendedorismo |
 
 </div>
@@ -129,8 +129,7 @@ Status | Disciplina | Professor
 
 Status | Disciplina | Professor
 ------ | ---------- | ---------
-:pencil2: | Aprendizado de Máquina | 
+:pencil2: | Aprendizado de Máquina | REGIS PIRES MAGALHÃES
 :pencil2: | Desafios de Programação | WLADIMIR ARAUJO TAVARES
-:pencil2: | Programação Para Design | DAVID SENA OLIVEIRA
 
 </div>
