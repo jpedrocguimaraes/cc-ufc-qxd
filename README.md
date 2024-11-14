@@ -1,21 +1,13 @@
 
 <img src="computer-science.svg" width="300" align="right" valign="baseline">
 
-# Repositório da Graduação
+# Progresso da Graduação
 João Pedro Cordeiro Guimarães.<br>
 Bacharelado em Ciência da Computação.<br>
 Desde 2020, até 2025.<br>
 Pela Universidade Federal do Ceará (UFC).
 
-![50%](https://progress-bar.dev/50?title=Progresso+no+curso:)
-
-#
->### Algumas observações importantes:
->##### 1 - Pretendo atualizar este repositório durante o semestre, mas não garanto, pelo menos atualizarei ele no fim do semestre.
->##### 2 - As disciplinas estão separadas de acordo com cada semestre de acordo com a grade curricular, mas ela pode ser encontrada no site da UFC Quixadá.
->##### 3 - O material aqui é de um aluno de graduação, alguns códigos e resoluções podem e provavelmente terão erros ou bugs, então o uso do material é de responsabilidade inteiramente sua.
->##### 4 - Sinta-se livre para sugerir alterações ou questionamentos.
-#
+![](https://progress-bar.xyz/63/?title=Progresso+no+curso&progress_color=90ee90)
 
 Legenda | Status
 ------- | ------
@@ -82,8 +74,8 @@ Status | Disciplina | Professor
 Status | Disciplina | Professor
 ------ | ---------- | ---------
 :white_check_mark: | Compiladores | JOÃO MARCELO UCHOA DE ALENCAR
-:pencil2: | Computação Gráfica | RUBENS FERNANDES NUNES
-:pencil2: | Matemática Computacional | FABIO CARLOS SOUSA DIAS
+:x: | Computação Gráfica | RUBENS FERNANDES NUNES
+:white_check_mark: | Matemática Computacional | FABIO CARLOS SOUSA DIAS
 :white_check_mark: | Redes de Computadores | PAULO ARMANDO CAVALCANTE AGUILAR
 :white_check_mark: | Desenvolvimento de Software para Web | JEFFERSON DE CARVALHO SILVA
 
@@ -94,11 +86,11 @@ Status | Disciplina | Professor
 
 Status | Disciplina | Professor
 ------ | ---------- | ---------
-:x: | Engenharia de Software |
-:x: | Interface Humano-Computador |
-:x: | Sistemas Distribuídos |
-:x: | Inteligência Artificial |
-:x: | Teoria da Computação |
+:pencil2: | Engenharia de Software | ANTONIA DIANA BRAGA NOGUEIRA
+:pencil2: | Interface Humano-Computador | MARCELO MARTINS DA SILVA
+:pencil2: | Sistemas Distribuídos | MARCOS DANTAS ORTIZ
+:pencil2: | Inteligência Artificial | SAMY SOARES PASSOS DE SA
+:pencil2: | Teoria da Computação | CARLOS ROBERTO RODRIGUES FILHO
 
 </div>
 
@@ -107,9 +99,9 @@ Status | Disciplina | Professor
 
 Status | Disciplina | Professor
 ------ | ---------- | ---------
-:pencil2: | Projeto de Pesquisa Científica e Tecnológica | CARLA ILANE MOREIRA BEZERRA
-:pencil2: | Trabalho de Conclusão de Curso I | PAULO ARMANDO CAVALCANTE AGUILAR
-:pencil2: | Estágio Supervisionado I | REGIS PIRES MAGALHÃES
+:white_check_mark: | Projeto de Pesquisa Científica e Tecnológica | CARLA ILANE MOREIRA BEZERRA
+:white_check_mark: | Trabalho de Conclusão de Curso I | PAULO ARMANDO CAVALCANTE AGUILAR
+:white_check_mark: | Estágio Supervisionado I | REGIS PIRES MAGALHÃES
 :x: | Empreendedorismo |
 
 </div>
@@ -119,8 +111,9 @@ Status | Disciplina | Professor
 
 Status | Disciplina | Professor
 ------ | ---------- | ---------
-:x: | Trabalho de Conclusão de Curso II |
+:pencil2: | Trabalho de Conclusão de Curso II | PAULO ARMANDO CAVALCANTE AGUILAR
 :x: | Estágio Supervisionado II |
+:x: | Atividades Complementares |
 
 </div>
 
@@ -129,7 +122,7 @@ Status | Disciplina | Professor
 
 Status | Disciplina | Professor
 ------ | ---------- | ---------
-:pencil2: | Aprendizado de Máquina | REGIS PIRES MAGALHÃES
-:pencil2: | Desafios de Programação | WLADIMIR ARAUJO TAVARES
+:white_check_mark: | Aprendizado de Máquina | REGIS PIRES MAGALHÃES
+:white_check_mark: | Desafios de Programação | WLADIMIR ARAUJO TAVARES
 
 </div>
