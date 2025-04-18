@@ -1,13 +1,13 @@
 
 <img src="computer-science.svg" width="300" align="right" valign="baseline">
 
-# Progresso da Graduação
+<h1>Progresso da Graduação</h1>
 João Pedro Cordeiro Guimarães.<br>
 Bacharelado em Ciência da Computação.<br>
 Desde 2020, até 2025.<br>
 Pela Universidade Federal do Ceará (UFC).
 
-![](https://progress-bar.xyz/63/?title=Progresso+no+curso&progress_color=90ee90)
+![](https://progress-bar.xyz/74/?title=Progresso+no+curso&progress_color=90ee90)
 
 Legenda | Status
 ------- | ------
@@ -64,7 +64,7 @@ Status | Disciplina | Professor
 :white_check_mark: | Linguagens de Programação | JOÃO MARCELO UCHOA DE ALENCAR
 :white_check_mark: | Projeto e Análise de Algoritmos | FABIO CARLOS SOUSA DIAS
 :white_check_mark: | Álgebra Linear | PAULO HENRIQUE MACEDO DE ARAUJO
-:x: | Análise e Projeto de Sistemas |
+:pencil2: | Análise e Projeto de Sistemas | MARCOS ANTÔNIO DE OLIVEIRA
 
 </div>
 
@@ -74,7 +74,7 @@ Status | Disciplina | Professor
 Status | Disciplina | Professor
 ------ | ---------- | ---------
 :white_check_mark: | Compiladores | JOÃO MARCELO UCHOA DE ALENCAR
-:x: | Computação Gráfica | RUBENS FERNANDES NUNES
+:pencil2: | Computação Gráfica | RUBENS FERNANDES NUNES
 :white_check_mark: | Matemática Computacional | FABIO CARLOS SOUSA DIAS
 :white_check_mark: | Redes de Computadores | PAULO ARMANDO CAVALCANTE AGUILAR
 :white_check_mark: | Desenvolvimento de Software para Web | JEFFERSON DE CARVALHO SILVA
@@ -86,11 +86,11 @@ Status | Disciplina | Professor
 
 Status | Disciplina | Professor
 ------ | ---------- | ---------
-:pencil2: | Engenharia de Software | ANTONIA DIANA BRAGA NOGUEIRA
-:pencil2: | Interface Humano-Computador | MARCELO MARTINS DA SILVA
-:pencil2: | Sistemas Distribuídos | MARCOS DANTAS ORTIZ
-:pencil2: | Inteligência Artificial | SAMY SOARES PASSOS DE SA
-:pencil2: | Teoria da Computação | CARLOS ROBERTO RODRIGUES FILHO
+:white_check_mark: | Engenharia de Software | ANTONIA DIANA BRAGA NOGUEIRA
+:white_check_mark: | Interface Humano-Computador | MARCELO MARTINS DA SILVA
+:white_check_mark: | Sistemas Distribuídos | MARCOS DANTAS ORTIZ
+:white_check_mark: | Inteligência Artificial | SAMY SOARES PASSOS DE SA
+:white_check_mark: | Teoria da Computação | CARLOS ROBERTO RODRIGUES FILHO
 
 </div>
 
@@ -111,9 +111,9 @@ Status | Disciplina | Professor
 
 Status | Disciplina | Professor
 ------ | ---------- | ---------
-:pencil2: | Trabalho de Conclusão de Curso II | PAULO ARMANDO CAVALCANTE AGUILAR
-:x: | Estágio Supervisionado II |
-:x: | Atividades Complementares |
+:white_check_mark: | Trabalho de Conclusão de Curso II | PAULO ARMANDO CAVALCANTE AGUILAR
+:pencil2: | Estágio Supervisionado II | REGIS PIRES MAGALHÃES
+:pencil2: | Atividades Complementares |
 
 </div>
 
@@ -124,5 +124,9 @@ Status | Disciplina | Professor
 ------ | ---------- | ---------
 :white_check_mark: | Aprendizado de Máquina | REGIS PIRES MAGALHÃES
 :white_check_mark: | Desafios de Programação | WLADIMIR ARAUJO TAVARES
+:pencil2: | Introdução ao Desenvolvimento de Jogos | PAULYNE MATTHEWS JUCÁ
+:pencil2: | Computação em Nuvem | JOÃO MARCELO UCHOA DE ALENCAR
+:pencil2: | Projeto Integrado I | MARCOS DEVANER DO NASCIMENTO
+:pencil2: | Sistemas Multiagentes | MARCOS ANTÔNIO DE OLIVEIRA
 
 </div>
